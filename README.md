@@ -26,9 +26,3 @@ Backend developer with a long track record in C#/.NET — diagnostics software, 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Jupyter" />
 </div>
-
----
-
-> * A systems thinker learning how to make AI work with the data that matters.*
-
----
