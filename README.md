@@ -8,7 +8,7 @@ Backend developer with a long track record in C#/.NET — diagnostics software, 
 
 | Project | Description |
 |---------|-------------|
-| 🧩 [**QueryCraft**](https://github.com/AM10101010/QueryCraft) | MCP server that gives Claude natural language access to OData services |
+| 🧩 [**QueryCraft**](https://github.com/AM10101010/query-craft-mcp) | MCP server that gives Claude natural language access to OData services |
 | 🐍 **AI/ML Toolkit** | Learning by building — Python, time series forecasting, data pipelines |
 
 #### 🧭 Where I'm headed
