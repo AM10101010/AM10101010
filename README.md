@@ -33,3 +33,7 @@ Backend developer with a long track record in C#/.NET — diagnostics software, 
 ---
 
 > A systems thinker learning how to make AI work with the data that matters.*
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AM10101010)](https://github.com/anuraghazra/github-readme-stats)
