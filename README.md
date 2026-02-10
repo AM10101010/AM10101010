@@ -11,11 +11,6 @@ Backend developer with a long track record in C#/.NET — diagnostics software, 
 | 🧩 [**QueryCraft**](https://github.com/AM10101010/query-craft-mcp) | MCP server that gives Claude natural language access to OData services |
 | 🐍 **AI/ML Toolkit** | Learning by building — Python, time series forecasting, data pipelines |
 
-#### 🧭 Where I'm headed
-
-- Enterprise data should be **conversational**, not just queryable
-- Not chasing hype — building proof of where LLMs actually add value
-- Bringing backend systems thinking into the AI tooling space
 
 #### 🧰 Tech
 
