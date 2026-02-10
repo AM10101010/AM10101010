@@ -1,16 +1,14 @@
 ### A decade of .NET. Now curious what happens when you point AI at enterprise data.
 
-Backend developer with a long background in C#/.NET. Currently exploring how LLMs can work with enterprise data.
+Backend developer exploring the space between LLMs and the systems businesses actually run on. Long background in C#/.NET, now adding Python to the mix.
 
 ---
 
-#### 🔨 What I'm building
+#### 🔧 What I'm building
 
 | Project | Description |
 |---------|-------------|
-| 🧩 [**QueryCraft**](https://github.com/AM10101010/query-craft-mcp) | MCP server that gives Claude natural language access to OData services |
-| 🐍 **AI/ML Toolkit** | Learning by building — Python, time series forecasting, data pipelines |
-
+| 🚀 [QueryCraft](link) | MCP server that gives Claude natural language access to OData services |
 
 #### 🧰 Tech
 
