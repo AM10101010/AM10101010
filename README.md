@@ -8,32 +8,32 @@ Backend developer with a long track record in C#/.NET — diagnostics software, 
 
 | Project | Description |
 |---------|-------------|
-| 🧩 [**QueryCraft**](https://github.com/YOUR_USERNAME/QueryCraft) | MCP server that gives Claude natural language access to OData services |
+| 🧩 [**QueryCraft**](https://github.com/AM10101010/QueryCraft) | MCP server that gives Claude natural language access to OData services |
 | 🐍 **AI/ML Toolkit** | Learning by building — Python, time series forecasting, data pipelines |
-
----
 
 #### 🧭 Where I'm headed
 
-- Making enterprise data **conversational**, not just queryable
-- Figuring out where LLMs actually add value — not chasing hype, building proof
-- Bridging the gap between backend systems thinking and AI tooling
-
+- Enterprise data should be **conversational**, not just queryable
+- Not chasing hype — building proof of where LLMs actually add value
+- Bringing backend systems thinking into the AI tooling space
 
 #### 🧰 Tech
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
-![gRPC](https://img.shields.io/badge/-gRPC-244c5a?style=flat&logo=google&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
+  <img width="12" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Jupyter" />
+</div>
 
 ---
 
-> A systems thinker learning how to make AI work with the data that matters.*
+> * A systems thinker learning how to make AI work with the data that matters.*
 
-
-
-
+---
