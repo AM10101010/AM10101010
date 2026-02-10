@@ -8,7 +8,7 @@ Backend developer exploring the space between LLMs and the systems businesses ac
 
 | Project | Description |
 |---------|-------------|
-| 🚀 [QueryCraft](link) | MCP server that gives Claude natural language access to OData services |
+| 🚀 [QueryCraft](https://github.com/AM10101010/query-craft-mcp) | MCP server that gives Claude natural language access to OData services |
 
 #### 🧰 Tech
 
