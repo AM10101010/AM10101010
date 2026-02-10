@@ -2,8 +2,6 @@
 
 Backend developer with a long background in C#/.NET. Currently exploring how LLMs can work with enterprise data.
 
-Building MCP servers and natural language query tools — figuring out what works when AI meets real business data.
-
 ---
 
 #### 🔨 What I'm building
