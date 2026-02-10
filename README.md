@@ -36,4 +36,4 @@ Backend developer with a long track record in C#/.NET — diagnostics software, 
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AM10101010)](https://github.com/anuraghazra/github-readme-stats)
+
