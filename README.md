@@ -1,7 +1,7 @@
 ### **A decade of .NET. Now curious what happens when you point AI at enterprise data.**
 
-Backend developer with a long track record in C#/.NET — diagnostics software, integration solutions, the kind of systems that quietly keep businesses running. Now exploring how LLMs can make that data more accessible and conversational.
-
+Backend developer with a long background in C#/.NET. Currently exploring how LLMs can work with enterprise data.
+Building MCP servers and natural language query tools — figuring out what works when AI meets real business data.
 ---
 
 #### 🔨 What I'm building
