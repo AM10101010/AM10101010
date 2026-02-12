@@ -1,6 +1,8 @@
-### A decade of .NET. Now curious what happens when you point AI at enterprise data.
+# Backend Engineer | .NET → Applied AI | Enterprise Systems
 
-Backend developer exploring the space between LLMs and the systems businesses actually run on. Long background in C#/.NET, now adding Python to the mix.
+### A decade of .NET.  
+### Exploring what happens when AI meets enterprise data.  
+### Building production-ready systems at the intersection of LLMs and backend services.
 
 ---
 
