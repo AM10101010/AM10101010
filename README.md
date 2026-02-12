@@ -1,3 +1,5 @@
+# Backend Engineer | .NET → Applied AI
+
 **Focus:** AI integration • Backend reliability • Enterprise data platforms
 
 > A decade of .NET.  
@@ -10,7 +12,7 @@
 
 | Project | Description |
 |---------|-------------|
-| 🚀 [QueryCraft](https://github.com/AM10101010/query-craft-mcp) | MCP server that gives Claude natural language access to OData services |
+| 🚀 [QueryCraft](https://github.com/AM10101010/query-craft-mcp) | MCP-based app enabling natural language access to enterprise OData services across LLM platforms |
 
 #### 🧰 Tech
 
