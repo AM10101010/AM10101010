@@ -1,8 +1,8 @@
 # Backend Engineer | .NET → Applied AI | Enterprise Systems
 
-### A decade of .NET.  
-### Exploring what happens when AI meets enterprise data.  
-### Building production-ready systems at the intersection of LLMs and backend services.
+> A decade of .NET.  
+> Exploring what happens when AI meets enterprise data.  
+
 
 ---
 
