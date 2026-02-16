@@ -1,8 +1,6 @@
 # Backend Engineer | .NET → Applied AI
 
 **Focus:** AI integration • Backend reliability • Enterprise data platforms
-
-> A decade of .NET.  
 > Exploring what happens when AI meets enterprise data.  
 
 
